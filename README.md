@@ -74,6 +74,6 @@ Special thanks to the open-source community for the tools and datasets that enab
 
 ## 📫 Contact
 Have questions or suggestions? Feel free to reach out or connect:
-- LinkedIn: [Profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/tobiloba-oluwadamilare-a850b0223/))
+- LinkedIn: [Profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/tobiloba-oluwadamilare-a850b0223/)
 - Email: tbiggest4@gmail.com
 
